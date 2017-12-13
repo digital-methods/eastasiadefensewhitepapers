@@ -24,13 +24,3 @@ Republic of Korea defense white paper 2010
 Introduction and table of contents
 
 will insert eastasiadefensewhitepapers/assets/images/RoK_2010_Intro_ToC.pdf
-
-Highlight an excerpt as a block:
-```
-Le vent d'hiver souffle, et la nuit est sombre, 
-Des gémissements sortent des tilleuls ; 
-```
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
-
