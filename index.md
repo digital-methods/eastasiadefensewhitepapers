@@ -18,7 +18,12 @@ Section on the Asia Pacific region
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
+<iframe class="scribd_iframe_embed" src="https://github.com/digital-methods/eastasiadefensewhitepapers/tree/master/assets/images/eastasiadefensewhitepapers/assets/images/Australia_2000_Asia_region.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+
 will insert eastasiadefensewhitepapers/assets/images/Australia_2000_Asia_region.pdf
+
+
+
 
 Republic of Korea defense white paper 2010
 Introduction and table of contents
