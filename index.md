@@ -22,7 +22,7 @@ Section on the Asia Pacific region
 
 will insert eastasiadefensewhitepapers/assets/images/Australia_2000_Asia_region.pdf
 
-<iframe class="scribd_iframe_embed" src=".images/Australia_2000_Asia_region.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="scribd_iframe_embed" src="..images/Australia_2000_Asia_region.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 
 
