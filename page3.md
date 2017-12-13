@@ -1,6 +1,16 @@
-# PAGE III
+# Challenges
 
-Also possible to embed iframes from Google sheet for instance (see this [page](https://www.datavizforall.org/embed/iframe-github/) for a full guide)
+<b>Methodological</b>
+- The full picture of defence strategies are not included in public white papers
+- The US has a number of allies in the Asia Pacific, however alliances are subject to change overtime
+- Not all US allies release white papers 
+- For ROK and Japan, we have to rely on translations of whitepapers 
+- Not all US allies who do release whitepapers do so on a uniform basis 
+- By grouping countries together as a whole, those countries that do release annual white papers will be disproportionately represented in the analysis 
+
+<b>Technical</b>
+- Problems with Cortext
+- Encountered some Chinese coding
+- Could be overcome with some reformatting work
 
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
