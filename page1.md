@@ -3,8 +3,11 @@
 > A corpus of defense white papers from Australia, Republic of Korea and Japan between 2000 and the present was uploaded to Cortext and analyzed using cross-country and -temporal lenses
 
 # ANALYSES:
-- Monitor frequency change over time
-- Compare Co-occurences country by country
-- Compare Co-occurences for one country in different time periods
+- Temporal Evolution
+  Monitor frequency change over time
+- Co-occurence Approach - Cross-country
+  Network mapping of related terms within white papers across countries
+- Co-occurence Approach - Cross-temporal
+  Network mapping of related terms within white papers development over time for different countries
 
 
