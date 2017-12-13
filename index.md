@@ -22,6 +22,6 @@ will insert eastasiadefensewhitepapers/assets/images/Australia_2000_Asia_region.
 
 
 - Republic of Korea defense white paper 2010<br>
-  Introduction and table of contents
+  <i>Introduction and table of contents</i>
 
 will insert eastasiadefensewhitepapers/assets/images/RoK_2010_Intro_ToC.pdf
