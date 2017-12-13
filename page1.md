@@ -1,4 +1,4 @@
-# This is the page1
+# Methodology
 
 
 Here are yet other bullet points:
