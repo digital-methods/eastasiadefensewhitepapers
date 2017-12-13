@@ -8,5 +8,5 @@
 
 <img src="eastasiadefensewhitepapers/assets/images/TemporalEvolution_RoK.png" alt="Temporal Evolution RoK" style="width:500px;height:600px;">
 
-<iframe src="https://documents.cortext.net/4706/47065e384291c726b612059886fb5d78/53154/temporal%20evolution/basic_statistics_Terms_35ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="700" height="500"></iframe>
+<iframe src="https://documents.cortext.net/4706/47065e384291c726b612059886fb5d78/53154/temporal%20evolution/basic_statistics_Terms_35ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="600" height="500"></iframe>
 
