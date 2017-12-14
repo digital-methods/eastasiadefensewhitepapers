@@ -1,8 +1,6 @@
 # Research Material
 
-## DATA
-
-The above questions were examined in a corpus of national defense white papers from US allies in the region throughout the 21st century
+The questions were examined using a corpus of national defense white papers from US allies in the region throughout the 21st century.
 
 ### Australia defense white paper 2000
 
