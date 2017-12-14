@@ -2,7 +2,7 @@
 
 The questions were examined using a corpus of national defense white papers of Australia, Japan and South Korea from the years 2000 to 2017. For further information on the choice of data go to <c>Challenges<c>.
 
-The following two white papers from Australia (2000) and South Korea (2010) illustrate the characteristics of the corpus and reflect some of the findings.
+The following two white papers from Australia (2000) and South Korea (2010) serve to illustrate the characteristics of the corpus and reflect some of the findings.
 
 ## Australia defense white paper 2000
 
