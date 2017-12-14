@@ -2,7 +2,8 @@
 
 ## Limits of Data
 
-<b>The full picture of defence strategies are not included in public white papers.<b> 
+<b>The full picture of defence strategies are not included in public white papers.<b>
+
 For obvious reasons, intelligence might be excluded from public white papers for strategic interest. Our study assumes that white papers are reflective of how US allies perceive threats levels from China and the DPRK, however intelligence and other hidden sources are likely to disclose the true perception of threat. 
 
 <b>The US has a number of allies in the Asia Pacific, however alliances are often subject to change overtime.<b> It is therefore difficult make an assumption about US allies’ perceived threat level if there is uncertainty as to who the allies are at any given time. Not all US allies release white papers, so therefore we can only analyse the US allies that do choose to release whitepapers. Our study therefore has the caveat that our analysis of perceived threat is based on US allies who release white papers. 
