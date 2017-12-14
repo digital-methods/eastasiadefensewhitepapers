@@ -13,7 +13,7 @@ The Australian paper from 2000 deals with a range of issues that are not directl
 
 ## Republic of Korea defense white paper 2010
 
-
+The 2010 paper of South Korea is an example for a very comprehensive white paper. A possible reason is that South Korea is more inclined to perceive the threat to its national security from North Korea as more immediate. North Korea is a major concern for South Korea, which describes it as "a serious threat to global security beyond Northeast Asia". The white paper further comprises dealings between South Korea and North Korea that are unique to their relationship as neighbouring countries and therefore cannot appear in Australia's and Japan's white papers, including repatriation of prisoners of war and military confidence-building measures.
 
 <iframe class="scribd_iframe_embed" title="Republic of Korea' Defence White Paper 2010" src="https://www.scribd.com/embeds/367182926/content?start_page=13&view_mode=scroll&access_key=key-pCwF3PeXPfwnkEBKAUtn&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7305194805194806" scrolling="no" id="doc_60983" width="100%" height="600" frameborder="0"></iframe>
 
