@@ -3,9 +3,9 @@ theme: jekyll-theme-time-machine
 title: Defense White Papers in the Asia Pacific
 description: A look at the security persepctives and strategies of US allies in the Asia Pacific over time
 menu: [
-{'name': 'Research Home', 'pagename': 'index'},
-{'name': 'Methodology', 'pagename': 'page1'},
-{'name': 'Findings', 'pagename': 'page2'},
-{'name': 'Challenges', 'pagename': 'page3'},
+{'name': 'Research Home', 'pagename': 'index'}
 {'name': 'Research Material', 'pagename': 'researchmaterial'},
+{'name': 'Methodology', 'pagename': 'methodology'},
+{'name': 'Challenges', 'pagename': 'challenges'},
+{'name': 'Findings', 'pagename': 'findings'},
 ]
