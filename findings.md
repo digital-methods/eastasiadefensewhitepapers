@@ -27,7 +27,7 @@
 ### Japan 2005-2010 vs. 2011-2017
 > Notable shift between networks, reflecting the growing uncertainty amidst the security environment
 >2005-2010
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e32b491a83d86fe404e65eeedd5f5989" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="600" height="500"></iframe>
+<iframe class="scribd_iframe_embed" src="https://documents.cortext.net/3125/312536405366aab1db089f4e9398c585/55953/maps/hn-doj2005-20102005_2010top200-Terms-Terms-distributionalcooc-99999-oT0.48-9999-louTrue.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 >2011-2017
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/5c8f0c80f783331217100ab7fac0ebfc" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="600" height="500"></iframe>
