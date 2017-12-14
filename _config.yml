@@ -7,6 +7,6 @@ menu: [
 {'name': 'The SCS Conflict', 'pagename': 'thescsconflict'},
 {'name': 'Material', 'pagename': 'material'},
 {'name': 'Methodology', 'pagename': 'methodology'},
-{'name': 'Challenges', 'pagename': 'challenges'},
 {'name': 'Findings', 'pagename': 'findings'},
+{'name': 'Challenges', 'pagename': 'challenges'},
 ]
