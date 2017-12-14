@@ -8,7 +8,7 @@ menu: [
 {'name': 'Material', 'pagename': 'material'},
 {'name': 'Methodology', 'pagename': 'methodology'},
 {'name': 'Temporal Evolution', 'pagename': 'temporalevolution'},
-{'name': 'Cross-regional Network Mapping', 'pagename': 'crossregionalnetworkmapping'},
-{'name': 'Cross-temporal Network Mapping', 'pagename': 'crosstemporalnetworkmapping'},
+{'name': 'Cross-regional Networks', 'pagename': 'crossregionalnetworks'},
+{'name': 'Cross-temporal Networks', 'pagename': 'crosstemporalnetworks'},
 {'name': 'Challenges', 'pagename': 'challenges'},
 ]
