@@ -14,7 +14,7 @@
 
 > North Korea is central in ROK’s defense landscape. This relationship characterized by its relevance within the international community.
 
-<iframe src="https://documents.cortext.net/eb29/eb291983ad0cb06ca75ba9afe8c3c36d/56122/maps/hn-rokutf82006_2016top150-Terms-Terms-distributionalcooc-99999-oT0.45-9999-louTrue.pdf" fdata-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="https://documents.cortext.net/eb29/eb291983ad0cb06ca75ba9afe8c3c36d/56122/maps/hn-rokutf82006_2016top150-Terms-Terms-distributionalcooc-99999-oT0.45-9999-louTrue.pdf" fdata-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 ### Japan
 > High relevance of North Korea and the international community, within the context of the overall “security environment.”
