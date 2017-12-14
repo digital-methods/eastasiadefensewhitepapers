@@ -10,6 +10,7 @@ The above questions were examined in a corpus of national defense white papers f
   
 
 ### Republic of Korea defense white paper 2010
-  <i>Introduction and table of contents</i>
+
+<iframe class="scribd_iframe_embed" title="Republic of Korea' Defence White Paper 2010" src="https://www.scribd.com/embeds/367182926/content?start_page=13&view_mode=scroll&access_key=key-pCwF3PeXPfwnkEBKAUtn&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7305194805194806" scrolling="no" id="doc_60983" width="100%" height="600" frameborder="0"></iframe>
 
 
