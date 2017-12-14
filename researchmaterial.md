@@ -10,7 +10,7 @@ Section on the Asia Pacific region
   
  
 
-<iframe class="scribd_iframe_embed" src="https://de.scribd.com/document/367181834/Australia-Defence-White-Paper-2000" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="scribd_iframe_embed" src="https://de.scribd.com/document/367181834/Australia-Defence-White-Paper-2000" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe></td>
 
 
 
