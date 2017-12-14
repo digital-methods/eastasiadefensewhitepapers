@@ -7,7 +7,7 @@ For each country, we used frequency analysis to see whether and how the language
 
 ## Cross-regional Co-occurence
 
-Network mapping was used to find related terms within white papers across countries. Therefore, network maps were generated for each country displaying the co-occurence of terms in the white papers after 2000.
+Network mapping (NM) was used to find related terms within white papers across countries. Therefore, network maps were generated for each country displaying the co-occurence of terms in the white papers after 2000.
   
 ## Cross-temporal Co-occurence
 
