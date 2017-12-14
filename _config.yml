@@ -7,6 +7,8 @@ menu: [
 {'name': 'The SCS Conflict', 'pagename': 'thescsconflict'},
 {'name': 'Material', 'pagename': 'material'},
 {'name': 'Methodology', 'pagename': 'methodology'},
-{'name': 'Findings', 'pagename': 'findings'},
+{'name': 'Temporal Evolution', 'pagename': 'temporalevolution'},
+{'name': 'Cross-regional Network Mapping', 'pagename': 'crossregionalnetworkmapping'},
+{'name': 'Cross-temporal Network Mapping', 'pagename': 'crosstemporalnetworkmapping'},
 {'name': 'Challenges', 'pagename': 'challenges'},
 ]
