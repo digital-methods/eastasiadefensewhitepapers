@@ -1,6 +1,6 @@
 # Challenges
 
-## Limits of Data
+### Limits of Data
 
 <b>The full picture of defence strategies are not included in public white papers.<b>
 
@@ -22,11 +22,13 @@ Therefore it is hard to make an assessment over time country by country on an an
 
 This is not a major problem, however, because the goal is to analyse perceived threat levels from US allies, not necessarily specific US allies. As can be seen, if each country released white papers on a uniform basis we would have a plethora of data available for analysis which would strenghthen our study. The lack of data on each country, however, does not necessarily hinder our analysis. It might have been beneficial to identity a region with countries that regular release white papers and analysing that allotment of countries instead. This would mean changing the perceived threast (DPRK and China), but it would allow us to look more in depth at how white papers highlight emerging threats. 
 
-## Limits of Methodology
+### Limits of Methodology
 
-- Our study importantly goes beyond qualitative analysis due to the breadth of the data used. The large data set we used would take a ridicuously long period of time to study quantiatively. Our study overcomes such potential barrier by using quantiative analysis involving the use of temporal evolution and network analsysis. A major issue in both types of analysis used - temporal evolution and network analysis - is linking the results to the assumed causes. For example, although we may have found that international cooperation is becoming more popular in white papers, we were unable to link this to the threat from the DPRK and China. Moreover, the growth of international cooperation might be a trend throughout the world, so our analysis would only inform the reader what they are likely to know already, which furthermrore may not be a significant trend for the countries under analysis. In regards to the types of analysis we used, cooccurence networks might not fully explain the relationship between different threats described in the white papers It only provides an elementary of the connections betweens threats and how a government perceives them. Temporal evolution analsyis on the otherhand might not contemplate third factors that influence on perceptions of threat overtime, which impact on threat perceptions of DPRK and China but not necessarily directly. 
+<b>Our study importantly goes beyond qualitative analysis due to the breadth of the data used.<b> 
 
-<b>Technical Problems</b>
-- After first attempting to upload the papers to Cortext, it was found that some of the original text file were uncoded in utff16 (instead of utf8) and some even in Chinese encoding. In a nutshell, some weird characters were messing up things on Cortext. This problem was overcome with some reformatting work.
+The large data set we used would take a ridicuously long period of time to study quantiatively. Our study overcomes such potential barrier by using quantiative analysis involving the use of temporal evolution and network analsysis. A major issue in both types of analysis used - temporal evolution and network analysis - is linking the results to the assumed causes. For example, although we may have found that international cooperation is becoming more popular in white papers, we were unable to link this to the threat from the DPRK and China. 
 
+<b>Moreover, the growth of international cooperation might be a trend throughout the world.<b> 
+
+In this case, our analysis would only inform the reader what they are likely to know already, which furthermrore may not be a significant trend for the countries under analysis. In regards to the types of analysis we used, cooccurence networks might not fully explain the relationship between different threats described in the white papers It only provides an elementary of the connections betweens threats and how a government perceives them. Temporal evolution analsyis on the otherhand might not contemplate third factors that influence on perceptions of threat overtime, which impact on threat perceptions of DPRK and China but not necessarily directly. 
 
