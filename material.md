@@ -1,6 +1,6 @@
 # Research Material
 
-The questions were examined using a corpus of national defense white papers from US allies in the region throughout the 21st century.
+The questions were examined using a corpus of national defense white papers of Australia, Japan and South Korea from the years 2000 to 2017.
 
 ### Australia defense white paper 2000
 
