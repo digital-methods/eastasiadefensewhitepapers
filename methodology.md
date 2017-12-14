@@ -1,13 +1,16 @@
 # Methodology
 
-> A corpus of defense white papers from Australia, Republic of Korea and Japan between 2000 and the present was uploaded to Cortext and analyzed using cross-country and -temporal lenses
 
-# ANALYSES:
-- Temporal Evolution<br>
+### Temporal Evolution
+
   Monitor frequency change over time
-- Co-occurence Approach - Cross-country<br>
+  
+ ### Cross-regional Co-occurence
+
   Network mapping of related terms within white papers across countries
-- Co-occurence Approach - Cross-temporal<br>
+  
+  ### Cross-temporal Co-occurence
+
   Network mapping of related terms within white papers development over time for different countries
 
 
