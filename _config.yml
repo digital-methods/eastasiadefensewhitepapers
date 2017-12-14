@@ -7,4 +7,5 @@ menu: [
 {'name': 'Methodology', 'pagename': 'page1'},
 {'name': 'Findings', 'pagename': 'page2'},
 {'name': 'Challenges', 'pagename': 'page3'},
+{'name': 'Research Material', 'pagename': 'researchmaterial'},
 ]
