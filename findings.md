@@ -51,7 +51,7 @@ Notable shift between networks, reflecting the growing uncertainty amidst the se
 <b>2005-2010<b>
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/3125/312536405366aab1db089f4e9398c585/55953/maps/hn-doj2005-20102005_2010top200-Terms-Terms-distributionalcooc-99999-oT0.48-9999-louTrue.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
-<b>>2011-2017<b>
+<b>2011-2017<b>
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/a58e/a58eb14888a044f7e84bda55a0342fc3/55954/maps/hn-doj2017-20112011_2017top200-Terms-Terms-distributionalcooc-99999-oT0.46-9999-louTrue.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe> 
 
 ### Australia 2000-2009 vs. 2010-2016
