@@ -2,6 +2,7 @@
 
 ## Republic of Korea
 
+The co-occurance network produced, has 8 clusters that are connected to eachother mostly thorugh the central two (blue and green).
 North Korea is central in ROK’s defense landscape. This can clealry be observed by looking at three out of four of the bottom right clusters, dedicated to North Korea and stability on the penisual. While the lower left one represents strategies involving the international community and weapons systems deemed a threat to the south, its neigbour is dedicated to civilian and bilatteral diplomatic activities such as inter-korean exchanges.The big blue cluster above is less clear, though, it involves strategic consideration and South Korea's key partners.
 Surprisingly, given the ROK's closeness to China, there are no terms found in the co-occurence matrix that indicate major consideration with regard to this rising power in its neigbourhood. 
 
