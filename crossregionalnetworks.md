@@ -10,10 +10,13 @@ Surprisingly, given the ROK's closeness to China, there are no terms found in th
 
 ## Japan
 
+For the case of Japan eight co-occurance clusters were produced, although only six of them contain a large body of interconnected nodes. Most relevant to the analysis are the two blue, the red and the green cluster. The two blue ones are devided into material capabilities (dark blue) and policy instruments (light blue) and are connected to the red cluster, which is dominated by threats to the Japanese security enviroment. Hence, North Korea being central to the red cluster shows its importance for both military capabilities (deterrence) and policy instruments to mitigate its influnce. The green group on the other hand contains the decision making bodies responsible for dealing with threats such as North Korea. It is therefor also well connected to the red cluster. Furthermore, no reference to the PRC could be found. 
+
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/4df9/4df9c438f135e00f23243edbc7d503dd/56132/maps/hn-jpnutf82005_2017top150-Terms-Terms-distributionalcooc-99999-oT0.47-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 ## Australia
 
-Emphasis again on the international community, hinting at the country's role in various regions and international cooperation, and for defense policy, strategic interests, and surveillance. 
+The Austrialian case has also led to the production of an eight cluster network. Resembling the Japanese one, only seven of these are large and well-connected enough to be of value in the analysis. 
+Unexpectedly, although a cluster dealing with the security environment is present, non of the clusters contain a direct reference to either the People's Repulbic of China or the DPRK. Hence, it appears that Australia has been less concerned about the two countries in the last decade than the two others. 
 
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/5979/597979bd2fd90b2a86d3bda727efdc03/56153/maps/hn-archive2000_2016top150-Terms-Terms-distributionalcooc-99999-oT0.46-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
