@@ -2,7 +2,8 @@
 
 ## Republic of Korea
 
-North Korea is central in ROK’s defense landscape. This relationship characterized by its relevance within the international community.
+North Korea is central in ROK’s defense landscape. This can clealry be observed by looking at three out of four of the bottom right clusters, dedicated to North Korea and stability on the penisual. While the lower left one represents strategies involving the international community and weapons systems deemed a threat to the south, its neigbour is dedicated to civilian and bilatteral diplomatic activities such as inter-korean exchanges.The big blue cluster above is less clear, though, it involves strategic consideration and South Korea's key partners.
+Surprisingly, given the ROK's closeness to China, there are no terms found in the co-occurence matrix that indicate major consideration with regard to this rising power in its neigbourhood. 
 
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/eb29/eb291983ad0cb06ca75ba9afe8c3c36d/56122/maps/hn-rokutf82006_2016top150-Terms-Terms-distributionalcooc-99999-oT0.45-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
