@@ -33,16 +33,17 @@ Therefore, strengthening relations with a potential enemy in this scenario, whic
 -	Kim, M.-h. (2016). South Korea’s Strategy toward a Rising China, Security Dynamics in East Asia, and International Relations Theory. Asian Survey, 56(4), 707-730. doi:10.1525/as.2016.56.4.707.
 -	Koda, Y. (2016). Japan’s Perceptions of and Interests in the South China Sea. Asia Policy, 21(1), 29-35. doi:10.1353/asp.2016.0011.
 -	Lee, C. M. (2016). Fault lines in a rising Asia.
--	Midford, P. (2015). Japan's Approach to Maritime Security in the South China Sea. Asian Survey, 55(3), 525-547. doi:10.1525/as.2015.55.3.525 Ministry-of-Foreign-Affairs-of-Japan. (1960). Treaty of Mutual Cooperation and Security Between Japan and The United States of America. Retrieved from http://www.mofa.go.jp/region/namerica/us/q&a/ref/1.html.
--	Storey, I. (2013). Japan’s maritime security interests in Southeast Asia and the South China Sea dispute. Political Science, 65(2), 135-156. doi:10.1177/0032318713508482 The-GDELT-Project. (2016). Global Data on Events, Location and Tone. Retrieved from http://gdeltproject.org/.
+-	Midford, P. (2015). Japan's Approach to Maritime Security in the South China Sea. Asian Survey, 55(3), 525-547. doi:10.1525/as.2015.55.3.525 
+- Ministry-of-Foreign-Affairs-of-Japan. (1960). Treaty of Mutual Cooperation and Security Between Japan and The United States of America. Retrieved from http://www.mofa.go.jp/region/namerica/us/q&a/ref/1.html.
+-	Storey, I. (2013). Japan’s maritime security interests in Southeast Asia and the South China Sea dispute. Political Science, 65(2), 135-156. doi:10.1177/0032318713508482 
 
 <b>For further reference:<b>
 
-Scholars such as Yoji Koda (2016), Katagiri ((2015) Strategy and grand strategy for the future of Asia.
+Scholars such as Yoji Koda (2016), Katagiri (2015) Strategy and grand strategy for the future of Asia.
 
-Asian Survey, 55(6)), Sebastian Maslow ((2015) A Blueprint for a Strong Japan? Abe Shinzō and Japan’s Evolving Security System. Asian Survey, 55(4)) and Audrey Y. Wong ((2015) Comparing Japanese and South Korean strategies toward China and the United States : all politics is local. 
+Asian Survey, 55(6)), Sebastian Maslow ((2015) A Blueprint for a Strong Japan? Abe Shinzō and Japan’s Evolving Security System. Audrey Y. Wong (2015) Comparing Japanese and South Korean strategies toward China and the United States : all politics is local. 
 
-Asian Survey, 55(6)), have written about the conflict from a strategic perspective, explaining the implications for the Japanese and South Korean security environment, while Chung Min Lee (2016) has dedicated some chapters to the reasons for these “fault lines” and their implications, in his more general book on Asian relations. Though the focus on security is a shared attribute of their works, their approaches differ significantly. 
+Katagiri, & Nori. (2015), have written about the conflict from a strategic perspective, explaining the implications for the Japanese and South Korean security environment, while Chung Min Lee (2016) has dedicated some chapters to the reasons for these “fault lines” and their implications, in his more general book on Asian relations. Though the focus on security is a shared attribute of their works, their approaches differ significantly. 
 
 Audrey Y. Wong’s work uses a historical perspective to describe the rising tensions in the South and East China Sea and Japan’s and South Korea’s security strategy, relying mainly on government documents, while Sebastian Maslow focuses on public opinion and institutions and Katagiri writes about the strategies and outcome of the U.S. and its allies on the one side and the PRC on the other.
 
