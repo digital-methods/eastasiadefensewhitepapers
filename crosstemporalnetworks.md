@@ -38,7 +38,17 @@ In a nutshell, the perception of North Korea as a threat seems to be more centra
 ## Australia 2000-2009 vs. 2010-2016
 
 ### 2000-2009
+
+Altough containing references to Australia's security enviroment, no references to either the People's Republic of China or North Korea can be found in the clusters created for the matrix of this time period. 
+
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/febc/febcd6002b682ac95f06bec774af9b44/56144/maps/hn-aus-2000-20092000_2009top150-Terms-Terms-distributionalcooc-99999-oT0.44-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe> 
 
 ### 2010-2016
+
+The later time period of 2010-2016, although not mentioning the PRC directly, features the node "south china sea" in the dark blue cluster, which contains references to the Austrialian security environment. Hence, chinese power projection in the region has started to influcence Australian defense policy. No references towards North Korea are present in this matrix. 
+
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/455b/455bb2e4c8b21df877f80d570639b90b/56145/maps/hn-aus-2013-20162013_2016top150-Terms-Terms-distributionalcooc-99999-oT0.41-9999-louTrue.pdf" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe> 
+
+### Conclusion
+
+Austrialia, with its relatively stable immideate security environment, has shown the least concern over the rise of both North Korea and the People's Republic of China. Eventhough the conflict in the South China Sea appears in the latter time slice, of the three countries analysed Australia appears to be least affected by the changes in the regional security enviroment. 
