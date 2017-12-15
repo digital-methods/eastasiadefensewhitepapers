@@ -3,10 +3,17 @@
 ## Republic of Korea 2006-2010 vs. 2011-2016
 
 ### 2006-2010
+From 2006 to 2010 the Republic of Korea put an emphasis on reconciliation and deplomacy, as evident from the dark green cluster. Although it is connected to the yellow cluster, containing strategic considerations, there is also a concetion with the light green cluster of economic cooperation present. 
+
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/e63c/e63c0215cda79f373889c6c93e699db8/56150/maps/hn-rok-2006-20102006_2010top150-Terms-Terms-distributionalcooc-99999-oT0.41-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
-### 2011-2016<b>
+### 2011-2016
+In this network the emphasis with regard to North Korea is split and on the one hand lies on the military threat the country poses, as observable in the yellow cluster, which contains both the term "north korean aggression" and "tailored deterrence strategy" as well as "wmd threats". On the other hand there is still a diplomatic and civilian element present, which is located in the red cluster. This cluster contains terms such as "separated families".
+
 <iframe class="scribd_iframe_embed" src="https://documents.cortext.net/af8d/af8d1a4a1001c3883e7ce9400e31951b/56151/maps/hn-rok-2011-20162014_2016top150-Terms-Terms-distributionalcooc-99999-oT0.44-9999-louTrue.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+
+In conclusion, one can observe that a change in threat perception has occured between the two time slices. While in the former one the North was seen more as a diplomatic challange the latter indicates that military and strategic considerations have now taken over, possibly due to the DPRK's increased nuclear capability. 
+No evidence of terms refering to the PRC was found. 
 
 ## Japan 2005-2010 vs. 2011-2017
 
